@@ -13,7 +13,7 @@
   <text x="30" y="490" class="highlight">  physicist@strasbourg</text>
   <text x="30" y="505" class="text">  --------------------</text>
 
-  <text x="430" y="60" class="text"><tspan class="highlight">OS:</tspan> .................... Master PRIDI (Rad, Detect, Instrm, Img)</text>
+  <text x="430" y="60" class="text"><tspan class="highlight">OS:</tspan> .................... Master PRIDI (Rad, Detect, Img)</text>
   <text x="430" y="75" class="text"><tspan class="highlight">Kernel:</tspan> ................ Fundamental Physics</text>
   <text x="430" y="90" class="text"><tspan class="highlight">Uptime:</tspan> ................ 5 years of higher education</text>
   <text x="430" y="105" class="text"><tspan class="highlight">IDE:</tspan> ................... VSCode</text>
