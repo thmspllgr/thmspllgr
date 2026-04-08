@@ -13,11 +13,10 @@
   <text x="30" y="490" class="highlight">  physicist@strasbourg</text>
   <text x="30" y="505" class="text">  --------------------</text>
 
-  <text x="430" y="60" class="text"><tspan class="highlight">OS:</tspan> .................... Master PRIDI (Rad, Detect, Img)</text>
-  <text x="430" y="75" class="text"><tspan class="highlight">Kernel:</tspan> ................ Fundamental Physics</text>
-  <text x="430" y="90" class="text"><tspan class="highlight">Uptime:</tspan> ................ 5 years of higher education</text>
-  <text x="430" y="105" class="text"><tspan class="highlight">IDE:</tspan> ................... VSCode</text>
-  <text x="430" y="120" class="text"><tspan class="highlight">Future.Update:</tspan> ......... PhD in Physics</text>
+  <text x="430" y="60" class="text"><tspan class="highlight">Role:</tspan> .................. Computational Physicist (MSc)</text>
+  <text x="430" y="75" class="text"><tspan class="highlight">Education:</tspan> ..............MSc in Radiation &amp; Medical Imaging</text>
+  <text x="430" y="90" class="text"><tspan class="highlight">Background:</tspan> ............ Fundamental Physics</text>
+  <text x="430" y="105" class="text"><tspan class="highlight">Status:</tspan> .............. Looking for PhD opportunities</text>
 
   <text x="430" y="145" class="text">. About_Me ----------------------------------------------</text>
   <text x="430" y="165" class="text"><tspan class="highlight">Languages.Code:</tspan> ........ Python (main), C++, FORTRAN</text>
