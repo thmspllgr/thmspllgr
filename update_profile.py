@@ -35,7 +35,7 @@ def image_to_ascii_svg(image_path, new_width=65, start_x=30, start_y=40, line_he
     
     for i in range(0, len(ascii_str), img_width):
         line = ascii_str[i:i+img_width]
-        line = line..replace("&", "&amp;")replace(" ", "&#160;")
+        line = line.replace("&", "&amp;")replace(" ", "&#160;")
         svg_output += f'  <text x="{start_x}" y="{current_y}" class="title" xml:space="preserve">{line}</text>\n'
         current_y += line_height
         
