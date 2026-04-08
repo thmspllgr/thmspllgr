@@ -18,7 +18,7 @@ def image_to_ascii_svg(image_path, new_width=130, start_x=30, start_y=40, line_h
 
     # Resize
     width, height = image.size
-    ratio = height / width / 3.4
+    ratio = height / width / 3.1
     new_height = int(new_width * ratio)
     image = image.resize((new_width, new_height)).convert("L")
     pixels = image.getdata()
