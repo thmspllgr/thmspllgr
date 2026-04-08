@@ -7,7 +7,7 @@ from datetime import datetime
 GITHUB_USER = "thmspllgr"
 TOKEN = os.getenv("GITHUB_TOKEN")
 
-def image_to_ascii_svg(image_path, new_width=65, start_x=30, start_y=40, line_height=10):
+def image_to_ascii_svg(image_path, new_width=130, start_x=30, start_y=40, line_height=10):
     ASCII_CHARS = ["@", "#", "8", "&", "o", ":", "*", ".", " "]
     
     try:
@@ -18,7 +18,7 @@ def image_to_ascii_svg(image_path, new_width=65, start_x=30, start_y=40, line_he
 
     # Resize
     width, height = image.size
-    ratio = height / width / 1.8
+    ratio = height / width / 2.4
     new_height = int(new_width * ratio)
     image = image.resize((new_width, new_height)).convert("L")
     pixels = image.getdata()
