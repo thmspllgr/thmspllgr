@@ -30,10 +30,10 @@
   <text x="430" y="300" class="text"><tspan class="highlight">Side_Quest:</tspan> .............. Developing Pokémon Game (PSDK/Ruby)</text>
 
   <text x="430" y="340" class="text">. Contact -------------------------------------------------</text>
-  <text x="430" y="360" class="text"><tspan class="highlight">Email:</tspan> ................... thmsplgr@gmail.com</text>
+  <text x="430" y="360" class="text"><tspan class="highlight">Email:</tspan> ................... {{EMAIL}}</text>
 
   <text x="430" y="415" class="text">. GitHub_Stats --------------------------------------------</text>
-  <text x="430" y="435" class="text"><tspan class="highlight">Repos:</tspan> ................... 4</text>
-  <text x="430" y="450" class="text"><tspan class="highlight">Stars:</tspan> ................... 1</text>
+  <text x="430" y="435" class="text"><tspan class="highlight">Repos:</tspan> ................... {{REPOS}}</text>
+  <text x="430" y="450" class="text"><tspan class="highlight">Stars:</tspan> ................... {{STARS}}</text>
   <text x="430" y="480" class="text"><tspan class="highlight">Bugs.Created:</tspan> ............ Countless (but hopefully fixed)</text>
 </svg>
