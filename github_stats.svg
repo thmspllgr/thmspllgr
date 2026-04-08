@@ -54,14 +54,15 @@
   <text x="30" y="490" class="highlight">  physicist@strasbourg</text>
   <text x="30" y="505" class="text">  --------------------</text>
 
-  <text x="430" y="60" class="text"><tspan class="highlight">OS:</tspan> .................... M2 PRIDI</text>
+  <text x="430" y="60" class="text"><tspan class="highlight">OS:</tspan> .................... Master PRIDI</text>
   <text x="430" y="75" class="text"><tspan class="highlight">Kernel:</tspan> ................ Fundamental Physics</text>
   <text x="430" y="90" class="text"><tspan class="highlight">Uptime:</tspan> ................ 5 years of higher education</text>
   <text x="430" y="105" class="text"><tspan class="highlight">IDE:</tspan> ................... VSCode</text>
+  <text x="430" y="120" class="text"><tspan class="highlight">Future.Update:</tspan> ......... PhD in Physics</text>
 
   <text x="430" y="145" class="text">. About_Me ----------------------------------------------</text>
-  <text x="430" y="165" class="text"><tspan class="highlight">Languages.Code:</tspan> ........ Python (Main), C++, FORTRAN</text>
-  <text x="430" y="180" class="text"><tspan class="highlight">Languages.Human:</tspan> ....... French (Native), English (Fluent)</text>
+  <text x="430" y="165" class="text"><tspan class="highlight">Languages.Code:</tspan> ........ Python (main), C++, FORTRAN</text>
+  <text x="430" y="180" class="text"><tspan class="highlight">Languages.Human:</tspan> ....... French (native), English (fluent)</text>
   <text x="430" y="195" class="text"><tspan class="highlight">Current.Task:</tspan> .......... Air Ionization Chamber Simulation</text>
   <text x="430" y="210" class="text"><tspan class="highlight">Tools.Sim:</tspan> ............. GEANT4 &amp; Custom Python Monte Carlo</text>
   <text x="430" y="225" class="text"><tspan class="highlight">Fuel:</tspan> .................. Coffee </text>
@@ -76,5 +77,5 @@
   <text x="430" y="415" class="text">. GitHub_Stats ------------------------------------------</text>
   <text x="430" y="435" class="text"><tspan class="highlight">Repos:</tspan> ................. 5</text>
   <text x="430" y="450" class="text"><tspan class="highlight">Stars:</tspan> ................. 1</text>
-  <text x="430" y="480" class="text"><tspan class="highlight">Bugs.Created:</tspan> .......... Countless (but hopefully fixed)</text>
+  <text x="430" y="465" class="text"><tspan class="highlight">Bugs.Created:</tspan> .......... Countless (but hopefully fixed)</text>
 </svg>
