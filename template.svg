@@ -25,15 +25,15 @@
   <text x="430" y="220" class="text"><tspan class="highlight">Tools.Sim:</tspan> ............. GEANT4 &amp; Custom Python Monte Carlo</text>
   <text x="430" y="235" class="text"><tspan class="highlight">Fuel:</tspan> .................. Coffee </text>
   
-  <text x="430" y="275" class="text">. Hobbies -----------------------------------------------</text>
-  <text x="430" y="295" class="text"><tspan class="highlight">Gaming:</tspan> ................ PC &amp; PS5</text>
-  <text x="430" y="310" class="text"><tspan class="highlight">Side_Quest:</tspan> ............ Developing Pokémon Game (PSDK/Ruby)</text>
+  <text x="430" y="290" class="text">. Hobbies -----------------------------------------------</text>
+  <text x="430" y="310" class="text"><tspan class="highlight">Gaming:</tspan> ................ PC &amp; PS5</text>
+  <text x="430" y="335" class="text"><tspan class="highlight">Side_Quest:</tspan> ............ Developing Pokémon Game (PSDK/Ruby)</text>
 
-  <text x="430" y="350" class="text">. Contact -----------------------------------------------</text>
-  <text x="430" y="370" class="text"><tspan class="highlight">Email:</tspan> ................. {{EMAIL}}</text>
+  <text x="430" y="390" class="text">. Contact -----------------------------------------------</text>
+  <text x="430" y="405" class="text"><tspan class="highlight">Email:</tspan> ................. {{EMAIL}}</text>
 
-  <text x="430" y="410" class="text">. GitHub_Stats ------------------------------------------</text>
-  <text x="430" y="430" class="text"><tspan class="highlight">Repos:</tspan> ................. {{REPOS}}</text>
-  <text x="430" y="445" class="text"><tspan class="highlight">Stars:</tspan> ................. {{STARS}}</text>
-  <text x="430" y="460" class="text"><tspan class="highlight">Bugs.Created:</tspan> .......... Countless (but hopefully fixed)</text>
+  <text x="430" y="460" class="text">. GitHub_Stats ------------------------------------------</text>
+  <text x="430" y="475" class="text"><tspan class="highlight">Repos:</tspan> ................. {{REPOS}}</text>
+  <text x="430" y="490" class="text"><tspan class="highlight">Stars:</tspan> ................. {{STARS}}</text>
+  <text x="430" y="505" class="text"><tspan class="highlight">Bugs.Created:</tspan> .......... Countless (but hopefully fixed)</text>
 </svg>
