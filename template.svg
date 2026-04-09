@@ -31,6 +31,8 @@
   
   <text x="30" y="490" class="highlight">  physicist@strasbourg</text>
   <text x="30" y="505" class="text">  --------------------</text>
+  
+  <text x="230" y="430" fill="yellow" class="text">  Beta + Delta electrons tracks in air</text>
 
   <text x="430" y="60" class="text"><tspan class="highlight">Role:</tspan> .................. Computational Physicist (MSc)</text>
   <text x="430" y="75" class="text"><tspan class="highlight">Education:</tspan> ............. MSc in Radiation &amp; Medical Imaging</text>
