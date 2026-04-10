@@ -76,27 +76,29 @@
   <text x="210" y="430" fill="yellow">  Beta + Delta electrons</text>
   <text x="210" y="450" fill="yellow">  tracks in air</text>
 
-  <text x="430" y="60" class="text"><tspan class="highlight">Role:</tspan> .................. Computational Physicist (MSc)</text>
-  <text x="430" y="75" class="text"><tspan class="highlight">Education:</tspan> ............. MSc in Radiation &amp; Medical Imaging</text>
-  <text x="430" y="90" class="text"><tspan class="highlight">Background:</tspan> ............ Fundamental Physics</text>
-  <text x="430" y="105" class="text"><tspan class="highlight">Status:</tspan> ................ Looking for PhD opportunities</text>
+  <text x="430" y="60" class="text"><tspan class="highlight">Role:</tspan> ..................... Computational Physicist (MSc)</text>
+  <text x="430" y="75" class="text"><tspan class="highlight">Education:</tspan> ........... MSc in Radiation &amp; Medical Imaging</text>
+  <text x="430" y="90" class="text"><tspan class="highlight">Background:</tspan> ......................... Fundamental Physics</text>
+  <text x="430" y="105" class="text"><tspan class="highlight">Status:</tspan> ................... Looking for PhD opportunities</text>
 
-  <text x="430" y="155" class="text">. About_Me ----------------------------------------------</text>
-  <text x="430" y="170" class="text"><tspan class="highlight">Languages.Code:</tspan> ........ Python (main), C++, FORTRAN</text>
-  <text x="430" y="185" class="text"><tspan class="highlight">Languages.Human:</tspan> ....... French (native), English (fluent)</text>
-  <text x="430" y="200" class="text"><tspan class="highlight">Current.Task:</tspan> .......... Air Ionization Chamber Simulation</text>
-  <text x="430" y="215" class="text"><tspan class="highlight">Tools.Sim:</tspan> ............. GEANT4 &amp; Custom Python Monte Carlo</text>
-  <text x="430" y="230" class="text"><tspan class="highlight">Fuel:</tspan> .................. Coffee </text>
+  <text x="430" y="155" class="text">. About_Me ──────────────────────────────────────────────</text>
+  <text x="430" y="170" class="text"><tspan class="highlight">Languages.Code:</tspan> ............. Python (main), C++, FORTRAN</text>
+  <text x="430" y="185" class="text"><tspan class="highlight">Languages.Human:</tspan> ...... French (native), English (fluent)</text>
+  <text x="430" y="200" class="text"><tspan class="highlight">Current.Task:</tspan> ......... Air Ionization Chamber Simulation</text>
+  <text x="430" y="215" class="text"><tspan class="highlight">Tools.Sim:</tspan> ........... GEANT4 &amp; Custom Python Monte Carlo</text>
+  <text x="430" y="230" class="text"><tspan class="highlight">Fuel:</tspan> ............................................ Coffee</text>
   
-  <text x="430" y="280" class="text">. Hobbies -----------------------------------------------</text>
-  <text x="430" y="300" class="text"><tspan class="highlight">Gaming:</tspan> ................ PC &amp; PS5</text>
-  <text x="430" y="315" class="text"><tspan class="highlight">Side_Quest:</tspan> ............ Developing Pokémon Game (PSDK/Ruby)</text>
+  <text x="430" y="280" class="text">. Hobbies ───────────────────────────────────────────────</text>
+  <text x="430" y="300" class="text"><tspan class="highlight">Gaming:</tspan> ........................................ PC &amp; PS5</text>
+  <text x="430" y="315" class="text"><tspan class="highlight">Side_Quest:</tspan> ......... Developing Pokémon Game (PSDK/Ruby)</text>
 
-  <text x="430" y="365" class="text">. Contact -----------------------------------------------</text>
-  <text x="430" y="380" class="text"><tspan class="highlight">Email:</tspan> ................. thomas.pellegrin@etu.unistra.fr</text>
+  <text x="430" y="365" class="text">. Contact ───────────────────────────────────────────────</text>
+  <text x="430" y="380" class="text"><tspan class="highlight">Email:</tspan> ....................... thomas.pellegrin@etu.unistra.fr</text>
 
-  <text x="430" y="430" class="text">. GitHub_Stats ------------------------------------------</text>
-  <text x="430" y="445" class="text"><tspan class="highlight">Repos:</tspan> ................. 5</text>
-  <text x="430" y="460" class="text"><tspan class="highlight">Stars:</tspan> ................. 1</text>
-  <text x="430" y="475" class="text"><tspan class="highlight">Bugs.Created:</tspan> .......... Countless (but hopefully fixed)</text>
+  <text x="430" y="430" class="text">. GitHub_Stats ──────────────────────────────────────────</text>
+  <text x="430" y="445" class="text"><tspan class="highlight">Repos:</tspan> ........................................ 5</text>
+  <text x="430" y="460" class="text"><tspan class="highlight">Stars:</tspan> ........................................ 1</text>
+  <text x="430" y="475" class="text"><tspan class="highlight">Bugs.Created:</tspan> ........... Countless (but hopefully fixed)</text>
 </svg>
+
+
