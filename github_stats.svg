@@ -71,7 +71,7 @@
 
   
   <text x="30" y="490" class="highlight">  physicist@strasbourg</text>
-  <text x="30" y="505" class="text">  --------------------</text>
+  <text x="30" y="505" class="text">  -------------------</text>
   
   <text x="210" y="430" fill="yellow">  Beta + Delta electrons</text>
   <text x="210" y="450" fill="yellow">  tracks in air</text>
@@ -88,7 +88,7 @@
   <text x="430" y="215" class="text"><tspan class="highlight">Tools.Sim:</tspan> ........... GEANT4 &amp; Custom Python Monte Carlo</text>
   <text x="430" y="230" class="text"><tspan class="highlight">Fuel:</tspan> ............................................ Coffee</text>
   
-  <text x="430" y="280" class="text">. Hobbies ───────────────────────────────────────────────</text>
+  <text x="430" y="285" class="text">. Hobbies ───────────────────────────────────────────────</text>
   <text x="430" y="300" class="text"><tspan class="highlight">Gaming:</tspan> ........................................ PC &amp; PS5</text>
   <text x="430" y="315" class="text"><tspan class="highlight">Side_Quest:</tspan> ......... Developing Pokémon Game (PSDK/Ruby)</text>
 
